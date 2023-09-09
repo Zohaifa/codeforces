@@ -4,6 +4,6 @@ int main(){
     long long int n, sum;
     scanf("%lld", &n);
     sum = n*(n+1)/2;
-    printf("%d\n", sum);
+    printf("%lld\n", sum);
     return 0;
 }
